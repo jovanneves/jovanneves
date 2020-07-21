@@ -1,4 +1,4 @@
-### Olá sejam bem vindos ao meu Github 👋
+### Olá seja bem vindos ao meu Github 👋
 
 Sou analista de sistemas, trabalho com desenvolvimento de sofware, atualmente com ênfase em .Net Core, HTML 5, JavaScript, SQL, Web Api e Containers Docker.
 
